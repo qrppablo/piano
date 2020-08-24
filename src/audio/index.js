@@ -1,0 +1,12 @@
+export const A = require('./piano-A.mp3');
+export const As = require('./piano-As.mp3');
+export const B= require('./piano-B.mp3');
+export const C = require('./piano-C.mp3');
+export const Cs = require('./piano-Cs.mp3');
+export const D = require('./piano-D.mp3');
+export const Ds = require('./piano-Ds.mp3');
+export const E = require('./piano-E.mp3');
+export const F = require('./piano-F.mp3');
+export const Fs = require('./piano-Fs.mp3');
+export const G = require('./piano-G.mp3');
+export const Gs = require('./piano-Gs.mp3');
