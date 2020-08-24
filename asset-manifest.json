@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/piano/static/css/main.8663de47.chunk.css",
+    "main.js": "/piano/static/js/main.5ffc0244.chunk.js",
+    "main.js.map": "/piano/static/js/main.5ffc0244.chunk.js.map",
+    "runtime-main.js": "/piano/static/js/runtime-main.887358fa.js",
+    "runtime-main.js.map": "/piano/static/js/runtime-main.887358fa.js.map",
+    "static/js/2.165c8c2d.chunk.js": "/piano/static/js/2.165c8c2d.chunk.js",
+    "static/js/2.165c8c2d.chunk.js.map": "/piano/static/js/2.165c8c2d.chunk.js.map",
+    "index.html": "/piano/index.html",
+    "precache-manifest.2db9f9c2b679959983b3a6568ac10168.js": "/piano/precache-manifest.2db9f9c2b679959983b3a6568ac10168.js",
+    "service-worker.js": "/piano/service-worker.js",
+    "static/css/main.8663de47.chunk.css.map": "/piano/static/css/main.8663de47.chunk.css.map",
+    "static/js/2.165c8c2d.chunk.js.LICENSE.txt": "/piano/static/js/2.165c8c2d.chunk.js.LICENSE.txt",
+    "static/media/piano-A.mp3": "/piano/static/media/piano-A.9d3625e6.mp3",
+    "static/media/piano-As.mp3": "/piano/static/media/piano-As.e9d1a37e.mp3",
+    "static/media/piano-B.mp3": "/piano/static/media/piano-B.4906f2c4.mp3",
+    "static/media/piano-C.mp3": "/piano/static/media/piano-C.1ed3869f.mp3",
+    "static/media/piano-Cs.mp3": "/piano/static/media/piano-Cs.b887f7f9.mp3",
+    "static/media/piano-D.mp3": "/piano/static/media/piano-D.d5a51dd5.mp3",
+    "static/media/piano-Ds.mp3": "/piano/static/media/piano-Ds.30c3e14f.mp3",
+    "static/media/piano-E.mp3": "/piano/static/media/piano-E.6822f7e1.mp3",
+    "static/media/piano-F.mp3": "/piano/static/media/piano-F.bf3a3c2b.mp3",
+    "static/media/piano-Fs.mp3": "/piano/static/media/piano-Fs.935d994e.mp3",
+    "static/media/piano-G.mp3": "/piano/static/media/piano-G.e41b5086.mp3",
+    "static/media/piano-Gs.mp3": "/piano/static/media/piano-Gs.81e35319.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.887358fa.js",
+    "static/js/2.165c8c2d.chunk.js",
+    "static/css/main.8663de47.chunk.css",
+    "static/js/main.5ffc0244.chunk.js"
+  ]
+}
